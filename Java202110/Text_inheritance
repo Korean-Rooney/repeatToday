@@ -68,4 +68,3 @@ class 서브클래스명 extends 슈퍼클래스명 {}
 접근 가능 : public, protected
 접근 불가능 : default, private
 
-
