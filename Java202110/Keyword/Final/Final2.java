@@ -1,4 +1,4 @@
-package Java202110.Final;
+package Java202110.Keyword.Final;
 
 public class Final2 {
     public static void main(String[] args) {
