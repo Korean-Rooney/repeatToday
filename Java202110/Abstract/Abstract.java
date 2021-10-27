@@ -1,4 +1,4 @@
-package Java202110.Abstract;
+package Java.Abstract;
 public class Abstract {
 
     public static void main(String[] args) {

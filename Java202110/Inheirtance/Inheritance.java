@@ -1,4 +1,4 @@
-package Java202110.Inheirtance;
+package Java.Inheirtance;
 class Inheritance { 
     public static void main(String[] args) {
         //서브클래스를 불러오기 위해서 인스턴스를 생성
