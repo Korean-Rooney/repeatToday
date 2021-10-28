@@ -1,4 +1,4 @@
-package Java.Inheirtance;
+package Java202110.Inheirtance;
 
 public class Inheritance3 {
     public static void main(String[] args) {

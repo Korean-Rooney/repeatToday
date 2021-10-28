@@ -1,6 +1,6 @@
-package Java.Keyword.Static;
+package Java202110.Keyword.Static;
 
-import Java.Keyword.This.This;
+import Java202110.Keyword.This.This;
 
 public class Static {
     public static void main(String[] args) {

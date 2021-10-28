@@ -1,4 +1,4 @@
-package Java.Method;
+package Java202110.Method;
 
 public class Method {
     public static void main(String[] args) {

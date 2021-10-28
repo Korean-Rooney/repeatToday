@@ -1,4 +1,4 @@
-package Java.Keyword.Super;
+package Java202110.Keyword.Super;
 
 public class Super2 {
     public static void main(String[] args) {
