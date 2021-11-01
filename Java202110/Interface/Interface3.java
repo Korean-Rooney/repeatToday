@@ -1,6 +1,6 @@
 package Java202110.Interface;
 
-public class Interfacce3 {
+public class Interface3 {
     public static void main(String[] args) {
         
         HowAnimal ha = new HowAnimal();
